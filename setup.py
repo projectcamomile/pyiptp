@@ -10,7 +10,7 @@ with open(os.path.join('pyiptp', '__init__.py'), 'r') as f:
 
 assert _VERSION
 
-USE_CYTHON = False
+USE_CYTHON = True
 ext = ".pyx" if USE_CYTHON else ".c"
 
 EXT_MODULES = [

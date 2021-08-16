@@ -1,0 +1,14 @@
+name: cp39
+channels:
+    - defaults
+    - msys2
+dependencies:
+    - python >=3.9,<3.10
+    - scipy
+    - numpy
+    - lxml
+    - cython
+    - matplotlib
+    - libpython
+    - m2w64-toolchain
+
