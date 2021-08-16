@@ -1,0 +1,7 @@
+build/
+dist/
+examples/
+pyiptp.egg-info/
+cython_mingw_w64_install.txt
+pyiptp/__pycache__/
+*.pyd
