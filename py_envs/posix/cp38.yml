@@ -1,0 +1,10 @@
+name: cp38
+channels:
+    - defaults
+dependencies:
+    - python >=3.8,<3.9
+    - scipy
+    - numpy
+    - lxml
+    - cython
+    - matplotlib

@@ -1,0 +1,10 @@
+name: cp39
+channels:
+    - defaults
+dependencies:
+    - python >=3.9,<3.10
+    - scipy
+    - numpy
+    - lxml
+    - cython
+    - matplotlib
